@@ -1,0 +1,36 @@
+.login {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+  height: 100vh;
+  background-image: linear-gradient(to top, #574fd8, #9a8cf2);
+}
+
+.login > img {
+  width: 100%;
+}
+
+.login > a {
+  padding: none;
+  border-radius: 99px;
+  background-color: rgb(224, 86, 109);
+  color: #fff;
+  padding: 20px;
+  text-decoration: none;
+  cursor: pointer;
+  font-weight: bold;
+  font-size: 20px;
+}
+
+.login > a:hover {
+  transition: 0.2s transform ease-in-out;
+  transform: scale(1.05);
+  background-color: rgb(226, 67, 93);
+}
+
+.login > p {
+  color: #fff;
+  font-size: 20px;
+  margin-top: 20px;
+}
