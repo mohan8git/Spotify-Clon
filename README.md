@@ -2,6 +2,9 @@
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://spotify-clone-mohan.s3.us-east-2.amazonaws.com/index.html#)
 
+## In order to use this service you need to be registered as a user on my client id.
+## you can mail me your email id so that I can give you access to the application.
+
 ## Flow
 
 - Login
