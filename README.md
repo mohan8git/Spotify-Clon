@@ -1,3 +1,31 @@
+# Spotify Clone Task
+
+[![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://spotify-clone-mohan.s3.us-east-2.amazonaws.com/index.html#)
+
+## Flow
+
+- Login
+- Authentication page
+- Landing Page
+- Getting the details from API and displaying.
+- Logout
+
+## Tech Used
+
+- React
+- Context API [State Management]
+- CSS for styling
+- spotify-web-api [npm]
+- react-indiana-drag-scroll [npm]
+- AWS S3 [deployment]
+
+## Quick Read
+
+- This Application is working is hosted on AWS.
+  Link: https://spotify-clone-mohan.s3.us-east-2.amazonaws.com/index.html#
+
+- This works fine with the desktop view.
+
 - Used only css for styling.
 
 - It has login page which asks for authentication. you are only able to use this application if you have spotify account.
