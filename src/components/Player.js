@@ -5,11 +5,9 @@ import Sidebar from "./Sidebar";
 import "../styles/Player.css";
 function Player({ spotify }) {
   return (
-    <div className="player__body">
-      <div className="top">
+    <div className="player">
+      <div className="player__body">
         <Sidebar />
-      </div>
-      <div className="bottom">
         <Body spotify={spotify} />
       </div>
     </div>
